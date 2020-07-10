@@ -1,0 +1,90 @@
+body{
+    font-family: 'Heebo', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+ .header-text h1{
+  font-size:40px;
+
+}
+.name-highlight{
+    color: orange;
+}
+.header-text{
+    width:35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-align: justify;
+    
+}
+.left-img img{
+    width:500px;
+    margin-left:70px;
+    margin-top: 20px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    
+    
+
+}
+.link-button:hover{
+    background-color: orange;
+    transition:1s;
+}
+section{
+    padding-bottom: 150px;
+}
+
+/*--Middel-section*/
+.right-img img{
+    width:500px;
+    margin-left:70px;
+    margin-top: 20px;
+    
+}
+.middel-text{
+    width:35%;
+    float: left;
+    margin-left:10%;
+    padding-top:80px;
+    text-align: justify;
+    
+}
+.right-img{
+    float: left;
+}
+.btn{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight:800;
+}
+.middel-background{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 200px;
+    margin-top:5%;
+}
+.btn:hover{
+    background-color: black;
+    transition: 1s;
+}
+
+
+
+
